@@ -1,1 +1,1 @@
-Simple tic tac toe, intuitive code, yet ass.
+Simple tic tac toe, intuitive code, but not the best.
